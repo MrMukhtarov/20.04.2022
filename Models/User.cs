@@ -44,10 +44,9 @@ namespace Interface19._4._2022.Models
                 {
                     return true;
                 }
-                while (checked1 || checked2 || checked3)
+                while (true)
                 {
-                    Console.WriteLine("Yeniden daxil et");
-                    string a = Console.ReadLine();
+                    
                 }
             }
             else

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\Interface19.4.2022\\Interface19.4.2022.csproj": {}
+    "C:\\Users\\HP\\Desktop\\20.04.2022\\Interface19.4.2022.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\Interface19.4.2022\\Interface19.4.2022.csproj": {
+    "C:\\Users\\HP\\Desktop\\20.04.2022\\Interface19.4.2022.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Interface19.4.2022\\Interface19.4.2022.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\20.04.2022\\Interface19.4.2022.csproj",
         "projectName": "Interface19.4.2022",
-        "projectPath": "C:\\Users\\HP\\Desktop\\Interface19.4.2022\\Interface19.4.2022.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\20.04.2022\\Interface19.4.2022.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\Interface19.4.2022\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\20.04.2022\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
